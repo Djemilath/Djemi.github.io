@@ -1,0 +1,27 @@
+<a href="#">Départements</a>
+                    <ul class="dropdown">
+                      <li><a href="departement.html">Alibori</a></li>
+                      <li><a href="departement.html">Atacora</a></li>
+                      <li><a href="departement.html">Atlantique</a></li>
+                      <li><a href="departement.html">Borgou</a></li>
+                      <li><a href="departement.html">Collines</a></li>
+                      <li><a href="departement.html">Couffo</a></li>
+                      <li><a href="departement.html">Donga</a></li>
+                      <li><a href="departement.html">Littoral</a></li>
+                      <li><a href="departement.html">Mono</a></li>
+                      <li><a href="departement.html">Ouémé</a></li>
+                      <li><a href="departement.html">Plateau</a></li>
+                      <li><a href="departement.html">Zou</a></li>
+                    </ul>
+                  </li>
+                  <li class="has-children">
+                    <a href="#">Ethnies</a>
+                    <ul class="dropdown">
+                      <li><a href="ethnie.html">Adja</a></li>
+                      <li><a href="ethnie.html">Bariba</a></li>
+                      <li><a href="ethnie.html">Goun</a></li>
+                      <li><a href="ethnie.html">Fon</a></li>
+                      <li><a href="ethnie.html">Peulhs</a></li>
+                      <li><a href="ethnie.html">Yoruba</a></li>
+                    </ul>
+                  </li>
